@@ -14,31 +14,12 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/AditKanaji/YOLO
     cd your-repository-name
     ```
 
-2. **Create a virtual environment (optional but recommended):**
 
-    ```bash
-    python -m venv venv
-    ```
-
-3. **Activate the virtual environment:**
-
-    - On Windows:
-
-        ```bash
-        venv\Scripts\activate
-        ```
-
-    - On macOS/Linux:
-
-        ```bash
-        source venv/bin/activate
-        ```
-
-4. **Install the required dependencies:**
+2. **Install the required dependencies:**
 
     ```bash
     pip install -r requirements.txt
