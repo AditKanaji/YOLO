@@ -15,7 +15,6 @@ Before you begin, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/AditKanaji/YOLO
-    cd your-repository-name
     ```
 
 
